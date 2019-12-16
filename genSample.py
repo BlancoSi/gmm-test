@@ -1,14 +1,3 @@
-
-# -*- coding: utf-8 -*-
-
-# ----------------------------------------------------
-
-# Copyright (c) 2017, Wray Zheng. All Rights Reserved.
-
-# Distributed under the BSD License.
-
-# ----------------------------------------------------
-
 import numpy as np
 import matplotlib.pyplot as plt
 
